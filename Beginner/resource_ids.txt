@@ -1,0 +1,3 @@
+
+ami: ami-014992d032c40b60a
+subnet_id: <find the subnet_id for the correct region>
